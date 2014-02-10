@@ -100,11 +100,26 @@ When you add your name to the list, give your self the next consecutive number a
 =======
 <<<<<<< HEAD
 55) Hapner, Chris *MrChristopher
-56) Henning, Joseph
+56) Henning, Joseph *JoeH042
 57) Rahrig, Jenna
 <<<<<<< HEAD
 =======
-58) Harris Matthew
+58) Harris Matthew *MrHARRis
 >>>>>>> 4b62b3897f2e63c4daa482971845b7359787a945
+<<<<<<< HEAD
 59) Steel, Michael
+<<<<<<< HEAD
 >>>>>>> 35884d3183189af7e90abb8ea5fe4ec06859237a
+=======
+60) Horstman, Clayton
+=======
+59) Steel, Michael *michaelsteel
+60) Almashari, Abdullah
+<<<<<<< HEAD
+>>>>>>> acd8c12c865049054dd62dace1b587d434ae83cd
+62.) Horstman, Clayton
+=======
+61) Leary, Jonah
+>>>>>>> 4eb5dcaa7ca06854b908e2afde37e8bf7abfc31e
+74) Whitelow, Eric *WhitelowEric
+>>>>>>> c552ec11d5830c4d29499699aa048b9a5af274bc
