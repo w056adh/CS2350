@@ -77,7 +77,7 @@ When you add your name to the list, give your self the next consecutive number a
 42) Alfaro, Michael
 43) Dunlevy, Dyanna
 44) Saddatov, Rustam
-45) Novak, David
+45) Novak, David *WhiteHatRootkitJedi
 46) Kap, Adam
 47) Kloos, Devin
 48) Lee, Scott
