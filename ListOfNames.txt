@@ -96,7 +96,7 @@ When you add your name to the list, give your self the next consecutive number a
 >>>>>>> 1776a8e8729daf01e778dc4dd5a366fd3e88d619
 <<<<<<< HEAD
 55) Hapner, Chris *MrChristopher
-56) Henning, Joseph
+56) Henning, Joseph *JoeH042
 57) Rahrig, Jenna
 <<<<<<< HEAD
 =======
