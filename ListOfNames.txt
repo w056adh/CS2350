@@ -84,9 +84,6 @@ When you add your name to the list, give your self the next consecutive number a
 49) Amin, Devesh
 50) Vuppu, Sirisha *sirisha
 <<<<<<< HEAD
-51) Shell, Jalen
-=======
-<<<<<<< HEAD
 51) Hapner, Chris
 
 =======
@@ -97,12 +94,7 @@ When you add your name to the list, give your self the next consecutive number a
 =======
 54) Vargas, Isamu 
 >>>>>>> 1776a8e8729daf01e778dc4dd5a366fd3e88d619
-<<<<<<< HEAD
-53) Hapner, Chris *MrChristopher
-54) Henning, Joseph
->>>>>>> 15553c3cd1f273c2404976918cddcfc8c954c5fe
-=======
 55) Hapner, Chris *MrChristopher
 56) Henning, Joseph
 57) Rahrig, Jenna
->>>>>>> 3772fd4aba6ae4df8e37d264e6055ebc039b2864
+58) Harris Matthew
