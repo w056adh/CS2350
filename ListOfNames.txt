@@ -87,14 +87,15 @@ When you add your name to the list, give your self the next consecutive number a
 51) Hapner, Chris
 
 =======
-51> LUCKENBILL, JOSHUA *jluck70
+52> LUCKENBILL, JOSHUA *jluckenbill
 <<<<<<< HEAD
 >>>>>>> e4373e35ad8cff89cbb52b1546e17647d4d26996
-52) Hapner, Chris
+53) Hapner, Chris
 =======
-52) Vargas, Isamu 
+54) Vargas, Isamu 
 >>>>>>> 1776a8e8729daf01e778dc4dd5a366fd3e88d619
-53) Hapner, Chris *MrChristopher
-54) Henning, Joseph
-55) Rahrig, Jenna
-56) Steel, Michael
+<<<<<<< HEAD
+55) Hapner, Chris *MrChristopher
+56) Henning, Joseph
+57) Rahrig, Jenna
+58) Steel, Michael
