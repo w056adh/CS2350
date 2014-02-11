@@ -105,13 +105,20 @@ When you add your name to the list, give your self the next consecutive number a
 <<<<<<< HEAD
 59) Steel, Michael
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 128d20a913196d454943e56076b3eb44dca8f045
 =======
 60) Almashari, Abdullah
 >>>>>>> d5b3b7a20116d51abe750eb9571ef6ec564987f7
-61) MCMEANS, JONATHAN
+=======
+60) Horstman, Clayton
+>>>>>>> 34d144207ccacd38093fd1dc6579805e3371c511
 =======
 59) Steel, Michael *michaelsteel
 60) Almashari, Abdullah
+<<<<<<< HEAD
+>>>>>>> acd8c12c865049054dd62dace1b587d434ae83cd
+62.) Horstman, Clayton
+=======
 61) Leary, Jonah
 >>>>>>> 4eb5dcaa7ca06854b908e2afde37e8bf7abfc31e
