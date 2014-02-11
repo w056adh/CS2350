@@ -22,8 +22,8 @@ When you add your name to the list, give your self the next consecutive number a
 12)ROBINSON, JACE *JaceRobinson
 13)Balasuriya,Lakshika
 14)Decker, Brantlyn *bdecker5
-15) HEAD, BRANDON
-16) JOHNSON, CHRISTOPHER
+15) HEAD, BRANDON *bhead9318
+16) JOHNSON, CHRISTOPHER *cjohnson714
 17) BLAKE, ANDREW *tromboneamb
 <<<<<<< HEAD
 18) GIFFIN, WILLIAM
@@ -68,7 +68,7 @@ When you add your name to the list, give your self the next consecutive number a
 36) Solanki, Sagar *sagarsolanki
 37) Maas, Tyler *tmaas93
 38) Moeggenberg, Andrew
-36) DUGAS, BLAKE
+36) DUGAS, BLAKE *blakedugas
 37) Samuel Murphy *murphy
 38) Sheffer, Brandon
 39) Liu, Mason *masonliu
@@ -76,13 +76,13 @@ When you add your name to the list, give your self the next consecutive number a
 41) Stewart, Christian *ChristianStewart
 42) Alfaro, Michael
 43) Dunlevy, Dyanna *dyannazane
-44) Saddatov, Rustam
+44) Saddatov, Rustam *SadWolf
 45) Novak, David *WhiteHatRootkitJedi
-46) Kap, Adam
+46) Kap, Adam *Kapital
 47) Kloos, Devin
 48) Lee, Scott
 49) Amin, Devesh
-50) Vuppu, Sirisha *sirisha
+50) Vuppu, Sirisha *sirishav
 <<<<<<< HEAD
 51) Hapner, Chris
 
@@ -95,6 +95,41 @@ When you add your name to the list, give your self the next consecutive number a
 54) Vargas, Isamu 
 >>>>>>> 1776a8e8729daf01e778dc4dd5a366fd3e88d619
 <<<<<<< HEAD
+<<<<<<< HEAD
+53) Hapner, Chris *MrChristopher
+54) Henning, Joseph
+55) OPP, ALEX
+56) OPP, ALEX
+57) OPP, ALEX
+51) Hapner, Chris
+
+=======
+52> LUCKENBILL, JOSHUA *jluckenbill
+<<<<<<< HEAD
+>>>>>>> e4373e35ad8cff89cbb52b1546e17647d4d26996
+53) Hapner, Chris
+=======
+54) Vargas, Isamu 
+>>>>>>> 1776a8e8729daf01e778dc4dd5a366fd3e88d619
+<<<<<<< HEAD
+55) Hapner, Chris *MrChristopher
+56) Henning, Joseph
+57) Rahrig, Jenna
+<<<<<<< HEAD
+=======
+58) Harris Matthew
+>>>>>>> 4b62b3897f2e63c4daa482971845b7359787a945
+59) Steel, Michael
+=======
+53) Hapner, Chris
+<<<<<<< HEAD
+54) Henning, Joseph
+55) CHRISTOPHER, DOLENCE
+=======
+54) Parish, Alexander
+>>>>>>> 34df6ce18126a96b961c0eefae4a2c6b35971be6
+=======
+<<<<<<< HEAD
 55) Hapner, Chris *MrChristopher
 56) Henning, Joseph *JoeH042
 57) Rahrig, Jenna
@@ -106,10 +141,14 @@ When you add your name to the list, give your self the next consecutive number a
 59) Steel, Michael
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 128d20a913196d454943e56076b3eb44dca8f045
 =======
 60) Almashari, Abdullah
 >>>>>>> d5b3b7a20116d51abe750eb9571ef6ec564987f7
+=======
+>>>>>>> 35884d3183189af7e90abb8ea5fe4ec06859237a
+>>>>>>> 4ec7831a39c3f574b476159e56f6fa3f426debe8
 =======
 60) Horstman, Clayton
 >>>>>>> 34d144207ccacd38093fd1dc6579805e3371c511
@@ -122,3 +161,21 @@ When you add your name to the list, give your self the next consecutive number a
 =======
 61) Leary, Jonah
 >>>>>>> 4eb5dcaa7ca06854b908e2afde37e8bf7abfc31e
+74) Whitelow, Eric *WhitelowEric
+>>>>>>> c552ec11d5830c4d29499699aa048b9a5af274bc
+<<<<<<< HEAD
+75) Opp, Alex
+=======
+>>>>>>> a7d6a81346716708bb9e2ef37b8b08862a603e07
+>>>>>>> 34df6ce18126a96b961c0eefae4a2c6b35971be6
+76) Bernt, Tyler
+77) Langenbach, Justin *jlangenbach
+78) Shepherd, Ethan
+79) Lauber, Mark *marklobster
+80) Alzahrani, Hassan *alnadel
+81) Wells, Zach *zw3lls17
+82) Rice, Leslie *leslierice
+83) Ebert, Andrew
+84) McMillian, Jasmine *jmcmillian
+85) Masters, Lee *lee09965
+86) MCMEANS, JONATHAN
