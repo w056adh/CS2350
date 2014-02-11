@@ -179,15 +179,16 @@ When you add your name to the list, give your self the next consecutive number a
 84) McMillian, Jasmine *jmcmillian
 <<<<<<< HEAD
 85) Masters, Lee
-86) Stamper, Joshua *JStamper90
-
- 
 =======
 85) Masters, Lee *lee09965
-86) MCMEANS, JONATHAN
+86) MCMEANS, JONATHAN *heartslash2
 87) Bhasavanich, Kraig *Sazre
 88) Aldaihani, Ali *w045aha
+<<<<<<< HEAD
 89) Alshayeb, Qasem *qalshayeb
-90) Stamper, Joshua
+=======
+89) Alshayeb, Qasem *w002qaa
+>>>>>>> 372dce0114cd0e11e9db8df9a4a41a9fe89f9958
 
 >>>>>>> 716f138bb4886a4389c876f9260da606221d3620
+
