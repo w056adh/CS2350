@@ -52,7 +52,7 @@ When you add your name to the list, give your self the next consecutive number a
 >>>>>>> ef149b9feead01950bec7867882c452824e1f11d
 <<<<<<< HEAD
 26) BUTHKER, GREGORY *GSBhub
-27) HITCHENS, JOSHUA *4eb3ddf5b6a221d3d133933285463308d48970de
+27) HITCHENS, JOSHUA *HitchensJoshua
 28) HO, HAU *kamizoko
 29) RUSSELL, DALTON *daltonrussell
 30) PORTER, KEVIN *kevinmporter
@@ -140,9 +140,18 @@ When you add your name to the list, give your self the next consecutive number a
 <<<<<<< HEAD
 59) Steel, Michael
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 128d20a913196d454943e56076b3eb44dca8f045
+=======
+60) Almashari, Abdullah
+>>>>>>> d5b3b7a20116d51abe750eb9571ef6ec564987f7
+=======
 >>>>>>> 35884d3183189af7e90abb8ea5fe4ec06859237a
+>>>>>>> 4ec7831a39c3f574b476159e56f6fa3f426debe8
 =======
 60) Horstman, Clayton
+>>>>>>> 34d144207ccacd38093fd1dc6579805e3371c511
 =======
 59) Steel, Michael *michaelsteel
 60) Almashari, Abdullah
@@ -168,7 +177,16 @@ When you add your name to the list, give your self the next consecutive number a
 82) Rice, Leslie *leslierice
 83) Ebert, Andrew
 84) McMillian, Jasmine *jmcmillian
+<<<<<<< HEAD
 85) Masters, Lee
 86) Stamper, Joshua *JStamper90
 
  
+=======
+85) Masters, Lee *lee09965
+86) MCMEANS, JONATHAN
+87) Bhasavanich, Kraig *Sazre
+88) Aldaihani, Ali
+89) Alshayeb, Qasem *qalshayeb
+90) Stamper, Joshua *JStamper90
+>>>>>>> 716f138bb4886a4389c876f9260da606221d3620
