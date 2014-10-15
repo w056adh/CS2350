@@ -2,8 +2,43 @@ Instructions:
 Each student must add their name with a number to the end of the list in the format 1) LASTNAME, FIRSTNAME
 When you add your name to the list, give yourself the next consecutive number available. e.g. if you are the 17th person to add your name, give yourself number 17).
 
-
 1) BUCK, ERIK
-2) BALASURIYA, LAKSHIKA *balasuriya
+2) BALASURIYA, LAKSHIKA *balasuriya3Lak
 3) GALLAGHER, JOHN
-4) LAMPING, ANTHONY*
+<<<<<<< HEAD
+4) LAMPING, ANTHONY
+=======
+4) PLATT, THOMAS
+5) ALHASHEMI, ABDULLAH
+4) JENNINGS, DUSTIN
+5) PLATT, THOMAS
+<<<<<<< HEAD
+6) NUNEZ, RAFAEL
+=======
+6) BLAKE, LEAH
+<<<<<<< HEAD
+>>>>>>> a16418d4973b27dbb089b8129047828d019b7216
+=======
+7) SHIMIZU, COGAN
+>>>>>>> c3619991fe41518593cf9c96a47442f7261202d6
+8) MILLER, DALLAS
+9) HATFIELD, WILLIAM
+10) RUE,NICLAS
+11) ANDERSON, JAMES
+12) FETHER, STEPHEN
+13) BENSMAN, CODY
+<<<<<<< HEAD
+14) ABDELLATIF, MAHMOUD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+14) PANAON, DAVID
+14) KASRANI, IMEN
+14) ALIG, KEVIN
+15) PINGAULT, ALEX
+>>>>>>> 16eac9ee45cd90ab2f9266a9a01bdcd3977e4162
+16) GOTTWEIS, JASON
+17) MYERS, MAXX
+18) Huanxi Wu
+19) Matthews, Erik
+>>>>>>> 70aca8d98ff43cdb44cf28a22337a6371d0bbe59
