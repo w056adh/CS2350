@@ -7,3 +7,4 @@ When you add your name to the list, give yourself the next consecutive number av
 3) GALLAGHER, JOHN
 4) JENNINGS, DUSTIN
 5) PLATT, THOMAS
+6) PURCELL, MICHAEL
