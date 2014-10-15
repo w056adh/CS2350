@@ -22,3 +22,4 @@ When you add your name to the list, give yourself the next consecutive number av
 9) HATFIELD, WILLIAM
 10) RUE,NICLAS
 11) ANDERSON, JAMES
+12) FETHER, STEPHEN
