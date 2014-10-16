@@ -51,17 +51,8 @@ When you add your name to the list, give yourself the next consecutive number av
 21) Amin, Devesh
 22) Saylor, Kelley
 23) BROOK, VICTORIA
-<<<<<<< HEAD
-<<<<<<< HEAD
 24) RUTTER,COREY
-=======
-
->>>>>>> d17c885788c9f521a766c57015055cee4ce91194
-=======
-4) RUTTER, COREY
->>>>>>> 9d43e0792e5863d89bb6e14fcca7da0f0494cf84
-=======
 24) Hill, Chase
 25) Hang, Chen
 26) Gonzalez, Jason
->>>>>>> a003369f5883f0f3cbcf9eb9b54036f3140cf5dd
+
