@@ -6,6 +6,7 @@ When you add your name to the list, give yourself the next consecutive number av
 2) BALASURIYA, LAKSHIKA *balasuriya3Lak
 3) GALLAGHER, JOHN
 <<<<<<< HEAD
+<<<<<<< HEAD
 4) LAMPING, ANTHONY
 =======
 4) PLATT, THOMAS
@@ -55,3 +56,6 @@ When you add your name to the list, give yourself the next consecutive number av
 =======
 
 >>>>>>> d17c885788c9f521a766c57015055cee4ce91194
+=======
+4) RUTTER, COREY
+>>>>>>> 9d43e0792e5863d89bb6e14fcca7da0f0494cf84
